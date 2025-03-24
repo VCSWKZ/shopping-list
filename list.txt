@@ -1,4 +1,4 @@
-litschi
+litschi 100x
 aepfel 2x
 birnen
 orangen
