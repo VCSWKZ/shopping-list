@@ -21,3 +21,5 @@ Kinderbueno
 sprite
 wodka
 Esstisch
+500 Zigaretten
+jaegermeister
