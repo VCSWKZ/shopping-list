@@ -20,4 +20,9 @@ Hai
 Kinderbueno
 sprite
 wodka
+<<<<<<< HEAD
 Esstisch
+=======
+500 Zigaretten
+jaegermeister
+>>>>>>> feature1
