@@ -20,3 +20,5 @@ Kinderbueno
 sprite
 wodka
 esstisch
+klospray
+klopapier
